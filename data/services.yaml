@@ -1,3 +1,12 @@
+bitcoinxromania:
+label: Bitcoin X Romania
+countries: [ro] 
+icon: https://bitcoinxromania.com/wp-content/uploads/2015/05/favicon.png
+url: https://bitcoinxromania.com
+content: |
+ <p>Bitcoin X Romania is a Romanian crypto currency exchange. Exchange RON/EUR/USD/BTC + other crypto currencies and a low trading fee of 0.5%.</p>
+coins: [btc, ltc, doge]
+
 maisondubtc:
   label: La Maison du Bitcoin
   countries: [fr]
